@@ -2,10 +2,22 @@
 title: The Resonance Project
 ---
 
-# Welcome to The Resonance Project
+# The Resonance Project
 
-This is my Quartz-powered site. Notes, ideas, and explorations will appear here.
+**Resonance is the field of alignment that underlies life.**  
+The Resonance Project is a living notebook exploring how resonance shapes **language, wellness, systems, and collective evolution**.
 
-- [[notes/hello|Start with a sample note]]
-- [[about|Learn more about this project]]
+This is not a static site, but an **evolving field**. Here we document frameworks, practices, and insights that are unfolding in real-time.
 
+---
+
+## 🔍 Explore
+- [[vision|Vision — why resonance matters]]
+- [[language|How Language Creates Reality]]
+- [[wellness|Resonance-Based Wellness System]]
+- [[expansion|Resonance Expansion System]]
+
+---
+
+> *Resonance is the bridge between source energy and lived reality.  
+> By aligning with resonance, we shift from fragmentation to coherence — from noise to harmony.*
