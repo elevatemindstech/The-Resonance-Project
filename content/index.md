@@ -15,7 +15,7 @@ Welcome. This garden grows through steady, humane steps—aligning vision, pract
 ## Quick Start
 
 - Read the arc → [Five Phases](./phases.md)
-- See the scaffolding → [Core Frameworks](Frameworks%20draft.md)
+- See the scaffolding → [Core Frameworks](frameworks.md)
 - Follow the flow → [Idea-to-Field Workflow](./workflow.md)
 
 ## Resonance Statement
