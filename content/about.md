@@ -42,7 +42,7 @@ Our works are **applied expressions** of the philosophy and frameworks:
 - **Shared Lenses:** **Unified Dimensions** (8-lens clarity), **Nano→Cosmic** scaling, **Resonance Metrics**.
 
 → Learn the arc: [phases](phases.md) · [workflow](workflow.md)  
-→ Mapping lens: [unified 20dimensions](unified%20dimensions.md)
+→ Mapping lens: [unified dimensions](unified%20dimensions.md)
 
 ## Domains (how people enter)
 
